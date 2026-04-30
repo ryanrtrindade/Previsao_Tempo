@@ -6,7 +6,9 @@ O objetivo desse projeto é criar um algoritmo capaz de atuar na previsão de ch
 As etapas desse projeto serão:
 
 1 - Análise exploratória e tratativa de dados
+
 2 - Treino de modelo
+
 3 -  Validação com métricas
 
 
