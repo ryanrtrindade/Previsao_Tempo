@@ -23,3 +23,29 @@ Visto que o dataset possui várias colunas com valores nulos, será necessário 
 2 Etapa:
 
 Separar em colunas qualitativas(object) e quantitativas(float ou int), mas antes de preencher os valores nulos das qualitativas, é importante verificar se temos mais de um valor moda e em seguida, preencher os nulos da colunas quantitativas usando mediana(melhor precisão para o tipo de problema e reduzir impacto dos outliers) e das qualitativas utilizando moda.
+
+
+
+
+ANALISANDO OUTLIERS
+
+É de suma importância fazer uma análise dos outliers no projeto e verificar se não há algum valor extremamente elevado ou abaixo do normal, e se houve, também investigar se não houve algum tipo de erro de digitação ou se as condições climática fugiram do padrão.
+
+A principio não será necessário remover estes outliers de cara nesse projeto pois irei criar o modelo utilizando random forest, porém eu irei explorar os outliers de cada coluna e verificar em quantos porcentos do total de linhas eles correspondem para validar minha decisão.
+
+As seguintes porcentagens de outliers em cada coluna:
+
+Rainfall = 19,89%
+Evaporation = 25,76%
+WindGustSpeed = 3,79%
+Humidity9am = 0,97%
+Humidity3pm = 0%
+Pressure9am = 1,89%
+Pressure3pm = 1,73%
+Cloud9am = 0% 
+Cloud3pm = 3,41%
+Temp9am = 0,21%
+Temp3pm = 0, 67%
+
+
+Tanto Rainfall, quanto Evaporation possuem maior procentgaem de outlier.
