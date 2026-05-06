@@ -64,4 +64,4 @@ Temp9am = 0,21%
 Temp3pm = 0, 67%
 
 
-Tanto Rainfall, quanto Evaporation possuem maior procentgaem de outlier.
+
