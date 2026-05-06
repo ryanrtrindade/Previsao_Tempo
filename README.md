@@ -27,6 +27,10 @@ Separar em colunas qualitativas(object) e quantitativas(float ou int), mas antes
 
 
 
+
+
+
+
 ANALISANDO OUTLIERS
 
 É de suma importância fazer uma análise dos outliers no projeto e verificar se não há algum valor extremamente elevado ou abaixo do normal, e se houve, também investigar se não houve algum tipo de erro de digitação ou se as condições climática fugiram do padrão.
