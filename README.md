@@ -24,6 +24,8 @@ Visto que o dataset possui várias colunas com valores nulos, será necessário 
 
 Separar em colunas qualitativas(object) e quantitativas(float ou int), mas antes de preencher os valores nulos das qualitativas, é importante verificar se temos mais de um valor moda e em seguida, preencher os nulos da colunas quantitativas usando mediana(melhor precisão para o tipo de problema e reduzir impacto dos outliers) e das qualitativas utilizando moda.
 
+Outro pequeno detalhe será remover a coluna RainTomorrow, pois o foco é a coluna RainToday para essa análise.
+
 
 
 
@@ -62,6 +64,18 @@ Cloud3pm = 3,41%
 Temp9am = 0,21%
 
 Temp3pm = 0, 67%
+
+
+
+CONSTRUÇÃO DE GRÁFICOS
+
+A construção dos gráficos terá 2 objetivos:
+
+1) Gerar insights sobre o gráfico
+
+2) Fazer comparativo com os valores do modelo de previsão(Esse é o principal motivo)
+
+
 
 
 
