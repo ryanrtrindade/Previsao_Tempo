@@ -67,6 +67,10 @@ Temp3pm = 0, 67%
 
 
 
+
+
+
+
 CONSTRUÇÃO DE GRÁFICOS
 
 A construção dos gráficos terá 2 objetivos:
