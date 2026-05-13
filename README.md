@@ -24,8 +24,6 @@ Visto que o dataset possui várias colunas com valores nulos, será necessário 
 
 Separar em colunas qualitativas(object) e quantitativas(float ou int), mas antes de preencher os valores nulos das qualitativas, é importante verificar se temos mais de um valor moda e em seguida, preencher os nulos da colunas quantitativas usando mediana(melhor precisão para o tipo de problema e reduzir impacto dos outliers) e das qualitativas utilizando moda.
 
-Outro pequeno detalhe será remover a coluna RainTomorrow, pois o foco é a coluna RainToday para essa análise.
-
 
 
 
