@@ -65,17 +65,9 @@ Temp3pm = 0, 67%
 
 
 
+<img width="597" height="432" alt="image" src="https://github.com/user-attachments/assets/ecc5c3f9-e930-4e7d-bd56-7f547878b34f" />
 
 
-
-
-CONSTRUÇÃO DE GRÁFICOS
-
-A construção dos gráficos terá 2 objetivos:
-
-1) Gerar insights sobre o gráfico
-
-2) Fazer comparativo com os valores do modelo de previsão(Esse é o principal motivo)
 
 
 
