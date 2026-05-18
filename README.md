@@ -89,11 +89,22 @@ Agora analisando os mesmo gráficos, só que 3 da tarde.
 
 
 
-Podemos chegar a mesma conclusão de que as condições são semelhantes, ou seja, dias que não chvem,  quanto menor a umidade, a evaporação tende a aumentar.
+Podemos chegar a mesma conclusão de que as condições são semelhantes, ou seja, dias que não chovem,  quanto menor a umidade, a evaporação tende a aumentar.
 
 <img width="571" height="432" alt="image" src="https://github.com/user-attachments/assets/369af0e0-1742-4af7-b3e8-fc0b3bfd6412" />
 
 Porém durante dias que chovem as 3 da tarde, os valores estão bem distribuidos, com o valor de evaporação tendo valores altos tanto na humidade baixa, quanto alto.
+
+
+Já sobre a evaporação, olhando para o gráfico abaixo é possível concluir que a evoporação está correlacionada com chuva e raio de sol.
+Quando raio de sol aumenta, a evaporação também e o fato de não estar chovendo influencia diretamente nesses dois eventos.
+
+<img width="562" height="432" alt="image" src="https://github.com/user-attachments/assets/c676abf5-f308-40ee-a0e5-733a07e314bf" />
+
+Porém nos dias que chovem, o raio de sol tende a ser menor e consequentemente a evaporação também.
+
+<img width="562" height="432" alt="image" src="https://github.com/user-attachments/assets/2342d0a2-d6f3-482c-9a35-e9bb3221582b" />
+
 
 
 
