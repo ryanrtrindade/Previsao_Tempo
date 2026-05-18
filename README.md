@@ -1,6 +1,6 @@
 # PrevisaoTempo
 
-O objetivo desse projeto é criar um algoritmo capaz de atuar na previsão de chuvas
+O objetivo desse projeto é fazer um estudo sobre um dataset de chuvas na Australia.
 
 
 As etapas desse projeto serão:
@@ -65,7 +65,25 @@ Temp3pm = 0, 67%
 
 
 
+Gráficos
+
+Analisando o gráfico abaixo, pode-se notar que a maioria dos dias não choveram, o motivo é devido a Australia clima seco e pouco favorável para chuvas.
+
 <img width="597" height="432" alt="image" src="https://github.com/user-attachments/assets/ecc5c3f9-e930-4e7d-bd56-7f547878b34f" />
+
+
+Outro insight é sobre a relação entre umidade e evaporação em dois diferentes horários. 
+
+durante dias que chovem, no horária de 9 da manhã, podemos perceber que quanto menor a umidade, a evaporação tende a aumentar.
+<img width="571" height="432" alt="image" src="https://github.com/user-attachments/assets/324b1c84-25a3-4909-825d-1e8be768c83f" />
+
+
+Já durante dias que chovem e no horário de 9 da manhã, percebe-se que quanto maior a umidade, maior tende ser a evaporação e os registros diminuem.
+<img width="571" height="432" alt="image" src="https://github.com/user-attachments/assets/4bf9265a-6d54-4612-ba5f-2026a76e2ae4" />
+
+
+
+
 
 
 
