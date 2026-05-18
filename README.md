@@ -74,12 +74,28 @@ Analisando o gráfico abaixo, pode-se notar que a maioria dos dias não choveram
 
 Outro insight é sobre a relação entre umidade e evaporação em dois diferentes horários. 
 
-durante dias que chovem, no horária de 9 da manhã, podemos perceber que quanto menor a umidade, a evaporação tende a aumentar.
+Durante dias não que chovem, no horária de 9 da manhã, podemos perceber que quanto menor a umidade, a evaporação tende a aumentar.
 <img width="571" height="432" alt="image" src="https://github.com/user-attachments/assets/324b1c84-25a3-4909-825d-1e8be768c83f" />
 
 
 Já durante dias que chovem e no horário de 9 da manhã, percebe-se que quanto maior a umidade, maior tende ser a evaporação e os registros diminuem.
+
 <img width="571" height="432" alt="image" src="https://github.com/user-attachments/assets/4bf9265a-6d54-4612-ba5f-2026a76e2ae4" />
+
+Agora analisando os mesmo gráficos, só que 3 da tarde.
+
+<img width="571" height="432" alt="image" src="https://github.com/user-attachments/assets/7510a764-9b35-4cbc-8bc2-91cf943df424" />
+
+
+
+Podemos chegar a mesma conclusão de que as condições são semelhantes, ou seja, dias que não chvem,  quanto menor a umidade, a evaporação tende a aumentar.
+
+<img width="571" height="432" alt="image" src="https://github.com/user-attachments/assets/369af0e0-1742-4af7-b3e8-fc0b3bfd6412" />
+
+Porém durante dias que chovem as 3 da tarde, os valores estão bem distribuidos, com o valor de evaporação tendo valores altos tanto na humidade baixa, quanto alto.
+
+
+
 
 
 
