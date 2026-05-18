@@ -78,7 +78,8 @@ Durante dias não que chovem, no horária de 9 da manhã, podemos perceber que q
 <img width="571" height="432" alt="image" src="https://github.com/user-attachments/assets/324b1c84-25a3-4909-825d-1e8be768c83f" />
 
 
-Já durante dias que chovem e no horário de 9 da manhã, percebe-se que quanto maior a umidade, maior tende ser a evaporação e os registros diminuem.
+Já durante dias que chovem e no horário de 9 da manhã, percebe-se que quanto maior a umidade, maior tende ser a evaporação e 
+os registros diminuem.
 
 <img width="571" height="432" alt="image" src="https://github.com/user-attachments/assets/4bf9265a-6d54-4612-ba5f-2026a76e2ae4" />
 
