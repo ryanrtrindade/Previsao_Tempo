@@ -108,6 +108,29 @@ Porém nos dias que chovem, o raio de sol tende a ser menor e consequentemente a
 
 
 
+CONSTRUÇÃO DE MODELO
+
+
+Durante a construção de modelo, houve treinamento e construção de 3 modelos de Boosting: GradientBoostingClassifier, XGBClassifier e LGBMClassifier.
+
+O escolhido foi o LGBMClassifier por ter perfomado melhor que os outros dois durante os testes.
+
+<img width="601" height="380" alt="image" src="https://github.com/user-attachments/assets/670b0f04-9117-43b9-8a3d-df438d152597" />
+
+E olhando os resultados, se nota que o modelo performar melhor na previsão de dias que não irão chover, já que há uma quantidade maior de dias que não choveram
+do que dias que choveram.
+
+E durante a avalição, o modelo obeteve uma pontuação de 85% de taxa de acerto e 15% de taxa de erro.
+
+
+Por fim, eis um gráfico com as features que mais influenciaram a previsão do modelo:
+<img width="655" height="433" alt="image" src="https://github.com/user-attachments/assets/e557f3b2-230c-43d4-a47f-b34b4850d662" />
+
+
+
+
+
+
 
 
 
