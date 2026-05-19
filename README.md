@@ -74,7 +74,7 @@ Analisando o gráfico abaixo, pode-se notar que a maioria dos dias não choveram
 
 Outro insight é sobre a relação entre umidade e evaporação em dois diferentes horários. 
 
-Durante dias não que chovem, às 9 da manhã, percebemos que quanto menor a umidade, a evaporação tende a aumentar.
+Durante dias não que chovem, às 9 da manhã, percebemos que quanto menor a umidade, a evaporação aumenta.
 <img width="571" height="432" alt="image" src="https://github.com/user-attachments/assets/324b1c84-25a3-4909-825d-1e8be768c83f" />
 
 
